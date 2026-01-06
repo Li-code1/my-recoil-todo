@@ -63,30 +63,6 @@ npm run dev
 ```
 
 
-
----
-
-## 🌐 Deploy (GitHub Pages)
-
-1. **Ajuste o arquivo `vite.config.js`:**
-Certifique-se de que o campo `base` contém o nome do seu repositório:
-```javascript
-base: '/nome-do-seu-repositorio/',
-
-```
-
-
-2. **Execute o comando de deploy:**
-```bash
-npm run deploy
-
-```
-
-
-A aplicação será construída e enviada para a branch `gh-pages`.
-
----
-
 ## 🛠️ Tecnologias Utilizadas
 
 * [React 18](https://reactjs.org/)
