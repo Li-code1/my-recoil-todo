@@ -68,8 +68,6 @@ npm run dev
 
 ## 🌐 Deploy (GitHub Pages)
 
-Este projeto já está configurado para deploy automático no GitHub Pages.
-
 1. **Ajuste o arquivo `vite.config.js`:**
 Certifique-se de que o campo `base` contém o nome do seu repositório:
 ```javascript
