@@ -44,7 +44,7 @@ Para rodar o projeto localmente, siga os passos abaixo:
 
 1. **Clone o repositório:**
 ```bash
-git clone https://github.com/seu-usuario/my-recoil-todo.git
+git clone https://github.com/Li-code1/my-recoil-todo.git
 
 ```
 
