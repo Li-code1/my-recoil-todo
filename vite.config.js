@@ -6,5 +6,5 @@ export default defineConfig({
   resolve: {
     dedupe: ['react', 'react-dom', 'recoil'], // Força o uso de uma única instância
   },
-  base: '/my-recoil-todo/', 
+  base:'./', 
 })
